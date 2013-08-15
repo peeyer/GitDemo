@@ -6,3 +6,6 @@ c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\obj\Debug
 c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.csproj.GenerateResource.Cache
 c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.exe
 c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.pdb
+C:\Users\francis\Documents\Visual Studio 2012\Projects\GitDemoBranch\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
+C:\Users\francis\Documents\Visual Studio 2012\Projects\GitDemoBranch\GitDemo\GitDemo\obj\Debug\GitDemo.exe
+C:\Users\francis\Documents\Visual Studio 2012\Projects\GitDemoBranch\GitDemo\GitDemo\obj\Debug\GitDemo.pdb
