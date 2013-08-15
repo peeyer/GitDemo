@@ -1,0 +1,8 @@
+c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
+c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\bin\Debug\GitDemo.exe
+c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\bin\Debug\GitDemo.pdb
+c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.csprojResolveAssemblyReference.cache
+c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.Properties.Resources.resources
+c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.csproj.GenerateResource.Cache
+c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.exe
+c:\users\francis\documents\visual studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.pdb
